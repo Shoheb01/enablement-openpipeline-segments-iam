@@ -16,7 +16,7 @@ environmentGroups:
             name: "monacoToken" 
       - name: prod-api-and-oauth
         url:
-          value: "DT_TENANT_APPS_PLACEHOLDER"
+          value: "https://vjt19640.sprint.apps.dynatracelabs.com"
         auth:
           token:
             name: "monacoToken"
